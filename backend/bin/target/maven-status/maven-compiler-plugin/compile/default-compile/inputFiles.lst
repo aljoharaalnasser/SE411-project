@@ -1,0 +1,10 @@
+/Users/mujtabaahmad/Documents/Project 1/VERSION 2/backend/src/main/java/com/se411/finance/FinanceApplication.java
+/Users/mujtabaahmad/Documents/Project 1/VERSION 2/backend/src/main/java/com/se411/finance/config/CorsConfig.java
+/Users/mujtabaahmad/Documents/Project 1/VERSION 2/backend/src/main/java/com/se411/finance/controller/AssetController.java
+/Users/mujtabaahmad/Documents/Project 1/VERSION 2/backend/src/main/java/com/se411/finance/dto/PageResponse.java
+/Users/mujtabaahmad/Documents/Project 1/VERSION 2/backend/src/main/java/com/se411/finance/exception/AssetNotFoundException.java
+/Users/mujtabaahmad/Documents/Project 1/VERSION 2/backend/src/main/java/com/se411/finance/exception/DuplicateSymbolException.java
+/Users/mujtabaahmad/Documents/Project 1/VERSION 2/backend/src/main/java/com/se411/finance/exception/GlobalExceptionHandler.java
+/Users/mujtabaahmad/Documents/Project 1/VERSION 2/backend/src/main/java/com/se411/finance/model/Asset.java
+/Users/mujtabaahmad/Documents/Project 1/VERSION 2/backend/src/main/java/com/se411/finance/repository/AssetRepository.java
+/Users/mujtabaahmad/Documents/Project 1/VERSION 2/backend/src/main/java/com/se411/finance/service/AssetService.java

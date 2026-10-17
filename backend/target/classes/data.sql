@@ -1,0 +1,10 @@
+INSERT INTO assets (symbol, company, type, quantity, market_value) VALUES ('AAPL', 'Apple Inc.', 'Stock', 25, 4732.50);
+INSERT INTO assets (symbol, company, type, quantity, market_value) VALUES ('MSFT', 'Microsoft Corp.', 'Stock', 15, 6228.75);
+INSERT INTO assets (symbol, company, type, quantity, market_value) VALUES ('TSLA', 'Tesla Inc.', 'Stock', 10, 2128.00);
+INSERT INTO assets (symbol, company, type, quantity, market_value) VALUES ('NVDA', 'NVIDIA Corp.', 'Stock', 8, 3844.80);
+INSERT INTO assets (symbol, company, type, quantity, market_value) VALUES ('KO', 'Coca-Cola Co.', 'Stock', 40, 2458.00);
+INSERT INTO assets (symbol, company, type, quantity, market_value) VALUES ('UST10', 'US Treasury 10Y Note', 'Bond', 20, 19310.00);
+INSERT INTO assets (symbol, company, type, quantity, market_value) VALUES ('UST30', 'US Treasury 30Y Bond', 'Bond', 5, 4701.25);
+INSERT INTO assets (symbol, company, type, quantity, market_value) VALUES ('MUNI1', 'City Municipal Bond', 'Bond', 12, 12048.00);
+INSERT INTO assets (symbol, company, type, quantity, market_value) VALUES ('CORP1', 'Corporate Bond AA', 'Bond', 6, 6076.50);
+INSERT INTO assets (symbol, company, type, quantity, market_value) VALUES ('JNJ', 'Johnson & Johnson', 'Stock', 18, 2860.20);
